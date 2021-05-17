@@ -6,4 +6,10 @@ _Hello there this is **Anubhav Singh**. A **Full Stack Web Developer** with a vi
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
-<a href="https://www.facebook.com/profile.php?id=100022158363925"><img height="30" src="https://github.com/Anubhav2907/Anubhav2907/blob/master/icons/facebook.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100022158363925"><img height="30" src="https://github.com/Anubhav2907/Anubhav2907/blob/master/icons/icons8-facebook-50.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/anxbhxv/"><img height="30" src="https://github.com/Anubhav2907/Anubhav2907/blob/master/icons/icons8-instagram-50.pn"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/ashutosh.a.dwivedi.3/"><img height="30" src="https://github.com/Anubhav2907/Anubhav2907/blob/master/icons/icons8-facebook-50.pn"></a>
+<a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img height="30" src="https://github.com/Anubhav2907/Anubhav2907/blob/master/icons/icons8-facebook-50.pn"></a>
+<a href="https://dev.to/ashutosh00710"><img src="https://github.com/Anubhav2907/Anubhav2907/blob/master/icons/icons8-facebook-50.pn" alt="Ashutosh Dwivedi's DEV Profile" height="30"></a>
+</p>
+
