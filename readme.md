@@ -40,7 +40,7 @@ _Hello there this is **Anubhav Singh**. A **Full Stack Web Developer** with a vi
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="120">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="120">
@@ -57,7 +57,7 @@ _Hello there this is **Anubhav Singh**. A **Full Stack Web Developer** with a vi
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="60">
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="120">
     </td>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
