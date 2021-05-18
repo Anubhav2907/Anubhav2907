@@ -97,5 +97,11 @@ _Hello there this is **Anubhav Singh**. A **Full Stack Web Developer** with a vi
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav2907&layout=compact&theme=dracula&langs_count=4&hide_border=true" width="45%" align="center" >
 </div>
-
 <br>
+
+## 🎫 Top Repositories
+<div>
+<a><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Anubhav2907&repo=Covid-tracker&show_icons=true&theme=tokyonight&border_color=ffffff" width="45%" align="right" ></a>
+
+<a><img  src="https://github-readme-stats.vercel.app/api/pin/?username=aashishchachan&repo=Sponsify&show_icons=true&theme=tokyonight&border_color=ffffff" width="45%" ></a>
+</div>
