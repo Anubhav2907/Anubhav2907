@@ -95,7 +95,7 @@ _Hello there this is **Anubhav Singh**. A **Full Stack Web Developer** with a vi
 </div>
 </br>
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav2907&layout=compact&theme=dracula&langs_count=4&hide_border=true" width="45%" align="center" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav2907&layout=compact&theme=tokyonight&langs_count=4&hide_border=true" width="45%" align="center" >
 </div>
 <br>
 
