@@ -69,7 +69,7 @@ _Hello there this is **Anubhav Singh**. A **Full Stack Web Developer** with a vi
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="130">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="120">
     </td>
     <td align='center' width="190">
         <img src="https://github.com/gilbarbara/logos/blob/master/logos/netlify.svg" width="60">
