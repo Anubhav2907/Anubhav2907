@@ -101,7 +101,7 @@ _Hello there this is **Anubhav Singh**. A **Full Stack Web Developer** with a vi
 
 ## 🎫 Top Repositories
 <div>
-<a><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Anubhav2907&repo=Covid-tracker&show_icons=true&theme=tokyonight&border_color=ffffff" width="45%" align="right" ></a>
+<a href="https://github.com/Anubhav2907/Covid-tracker"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Anubhav2907&repo=Covid-tracker&show_icons=true&theme=tokyonight&border_color=ffffff" width="45%" align="right" ></a>
 
-<a><img  src="https://github-readme-stats.vercel.app/api/pin/?username=aashishchachan&repo=Sponsify&show_icons=true&theme=tokyonight&border_color=ffffff" width="45%" ></a>
+<a href="https://github.com/Anubhav2907/Sponsify"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Anubhav2907&repo=Sponsify&show_icons=true&theme=tokyonight&border_color=ffffff" width="45%" ></a>
 </div>
