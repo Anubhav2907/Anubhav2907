@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif"  width="500">
 
-_Hello there this is **Anubhav Singh**. A **Full Stack Web Developer** with a vision to make this web beautiful. I spend my whole day, experimenting with HTML, CSS, and JavaScript; dabbling with React and Redux. I build websites that delight and inform. I do it well._
+_Hello there, this is **Anubhav Singh**. A **Full Stack Web Developer** with a vision to make this web beautiful. I spend my whole day, experimenting with HTML, CSS, and JavaScript; dabbling with React and Redux. I build websites that delight and inform. I do it well._
 - 🔭 I’m currently working on MERN stack.
 - 🌱 Improving my DSA skills.
 - 🤝 Pronouns: Anx/He/Him
