@@ -91,7 +91,7 @@ _Hello there, this is **Anubhav Singh**. A **Full Stack Web Developer** with a v
 <div>
 <img  src="https://github-readme-stats.vercel.app/api?username=Anubhav2907&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav2907&theme=dracula" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav2907&theme=tokyonight" width="45%" >
 </div>
 </br>
 <div align="center">
