@@ -11,7 +11,7 @@ _Hello there, this is **Anubhav Singh**. A **Full Stack Web Developer** with a v
 - 👨‍🎓 Ongoing Intern at Orions IT Solutions.
 - ⚡ Get me a pair of Air Jordans and I'll develop a site for you😁
 </div>
-<div>
+<div align="center">
 </br>
 <p align="center"><h3 align='center'><i>Social Media Handles</i></h3></p>
 <p align='center'>
@@ -21,6 +21,7 @@ _Hello there, this is **Anubhav Singh**. A **Full Stack Web Developer** with a v
 <a href="https://www.linkedin.com/in/anubhav-singh-jadoun-2689621b3/"><img height="30" src="https://github.com/Anubhav2907/Anubhav2907/blob/master/icons/icons8-linkedin-50.png"></a>&nbsp;&nbsp;
 <a href="https://wa.link/oa7no7"><img src="https://github.com/Anubhav2907/Anubhav2907/blob/master/icons/icons8-whatsapp-50.png"height="30"></a>&nbsp;&nbsp;
 </p>
+<p align="center"><p> <img align="center" src="https://komarev.com/ghpvc/?username=Anubhav2907&color=blue" alt="counter"> </p></p>
 </div>
 <h2 align='center'><i><a href="https://github.com/Anubhav2907/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
