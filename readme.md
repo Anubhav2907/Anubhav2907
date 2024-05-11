@@ -8,8 +8,6 @@ _Hello there, this is **Anubhav Singh**. A **Full Stack Web Developer** with a v
 - 🌱 Improving my DSA skills.
 - 🤝 Pronouns: Anx/He/Him
 - 👯 I’m looking to collaborate with other devs on cool projects!
-- 👨‍🎓 Ongoing Intern at Orions IT Solutions.
-- ⚡ Get me a pair of Air Jordans and I'll develop a site for you😁
 </div>
 <div align="center">
 </br>
